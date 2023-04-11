@@ -4,18 +4,7 @@
 During the year of programming, I gained a lot of knowledge and met many interesting people. Not being able to teach web development before, from the very first day of training, I was dragged into the wonderful world of the frontend. I always write code with a soul, I always try to write clean and optimized code. Yes, in this rapidly developing world of IT, I am always chasing new knowledge, so to speak, I have a hunger for knowledge. I will be glad to work with interesting and experienced specialists, because every specialist is an interesting person.</i>
 
  ##  My Technology stack:
-<img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/React-4682B4?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/ReactRouter-orange?style=for-the-badge&logo=React Router&logoColor=black"/> <img src="https://img.shields.io/badge/Next-orange?style=for-the-badge&logo=nextdotjs&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-4682B4?style=for-the-badge&logo=TypeScript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/ReduxToolkit-00CED1?style=for-the-badge&logo=Redux&logoColor=black"/> 
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=orange"/> 
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=White"/> 
-<img src="https://img.shields.io/badge/antdesign-blue?style=for-the-badge&logo=antdesign&logoColor=White"/> 
-<img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=fff"/>
-<img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=fff"/>
-<img src="https://img.shields.io/badge/git-808080?style=for-the-badge&logo=git&logoColor=fff"/>
-<img src="https://img.shields.io/badge/github-808080?style=for-the-badge&logo=github&logoColor=fff"/>
-<img src="https://img.shields.io/badge/mysql-87CEFA?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-4682B4?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/ReactRouter-orange?style=for-the-badge&logo=React Router&logoColor=black"/> <img src="https://img.shields.io/badge/Next-orange?style=for-the-badge&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-4682B4?style=for-the-badge&logo=TypeScript&logoColor=black"/> <img src="https://img.shields.io/badge/ReduxToolkit-00CED1?style=for-the-badge&logo=Redux&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=orange"/> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=White"/> <img src="https://img.shields.io/badge/antdesign-blue?style=for-the-badge&logo=antdesign&logoColor=White"/> <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=fff"/> <img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=fff"/> <img src="https://img.shields.io/badge/git-808080?style=for-the-badge&logo=git&logoColor=fff"/> <img src="https://img.shields.io/badge/github-808080?style=for-the-badge&logo=github&logoColor=fff"/> <img src="https://img.shields.io/badge/mysql-87CEFA?style=for-the-badge&logo=mysql&logoColor=black"/>
 
  ## <i>The courses I took:</i>
 <i>"MAKERS" Programming School</i>
